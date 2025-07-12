@@ -33,7 +33,7 @@ A ideia é simplificar a segurança, automatizando o processo e gerando insights
 ## 🗂️ Estrutura do Projeto
 
 ```
-hackathon-stride-ai/
+strideyolo/
 ├── dataset/
 │   └── images/test/         # Imagens para análise
 ├── models/                  # Modelos YOLOv8
@@ -58,8 +58,8 @@ hackathon-stride-ai/
 ### 1️⃣ Clone o projeto
 
 ```bash
-git clone https://github.com/roodligo/hackathon-stride-ai.git
-cd hackathon-stride-ai
+git clone https://github.com/hsouzaeduardo/challange-FIAP04.git
+cd strideyolo
 ```
 
 ### 2️⃣ Instale as dependências
@@ -68,7 +68,7 @@ cd hackathon-stride-ai
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Adicione sua imagem
+### 3️⃣ Para execução manual adicione sua imagem
 
 Coloque o diagrama em:  
 `dataset/images/test/1.png`
@@ -81,7 +81,7 @@ python main.py
 
 ---
 
-## 💻 Interface Web (opcional)
+## 💻 Interface Web com upload
 
 Se quiser usar uma interface amigável com Streamlit:
 
@@ -110,7 +110,6 @@ streamlit run app.py
 ## 👨‍💻 Autor
 
 **Henrique Eduardo Souza **
-
 
 ---
 
