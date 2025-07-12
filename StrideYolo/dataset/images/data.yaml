@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['AI Service', 'API Gateway', 'Auth', 'Backend', 'Cache', 'Configuration', 'Database', 'Firewall', 'Frontend', 'Game Server', 'Load Balancer', 'Macine Learning', 'Messaging', 'Networking', 'Remote Access', 'Search', 'Storage', 'User', 'VPC', 'Workflow Engine']
+
+roboflow:
+  workspace: arquiteturadiagram
+  project: custom-workflow-object-detection-cle4s
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arquiteturadiagram/custom-workflow-object-detection-cle4s/dataset/4
