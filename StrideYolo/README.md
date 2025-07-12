@@ -109,9 +109,8 @@ streamlit run app.py
 
 ## 👨‍💻 Autor
 
-**Henrique Eduardo Souza** no Hackathon — Fase 5.
+**Henrique Eduardo Souza **
 
-🎥 Apresentação completa: [Assista no YouTube](https://youtu.be/mP9u2hnd3T0?si=D4whe7f5Mylo4AS5)
 
 ---
 
